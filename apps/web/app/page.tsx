@@ -139,6 +139,10 @@ export default function Home() {
           </div>
         </div>
       </section>
+      
+      <section className="pageThird">
+        <h1>About Us</h1>
+      </section>
     </>
   );
 }
